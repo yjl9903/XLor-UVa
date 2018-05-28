@@ -30,6 +30,12 @@ cin.getline()等函数应用，输出格式控制
 
 Runtime error 注意数组超界问题
 
+# UVa232 The Dole Queue
+
+> 2018 - 1 - 15
+
+注意约瑟夫环，取余环形遍历数组的技巧。
+
 # UVa202 Repeating Decimals
 
 > 2018 - 1 - 16
@@ -56,6 +62,39 @@ Runtime error 注意数组超界问题
 > 2018 - 1 - 17
 
 对大数取对数，查表。
+
+# UVa1339 Ancient Cipher
+
+> 2018 - 1 - 17
+
+别打错变量名字。
+
+# UVa489 Hangman Judge
+
+> 2018 - 1 - 18
+
+# UVa213 Message Decoding
+
+> 2018 - 1 - 19
+
+本题注意getchar()函数的使用。
+ 
+# UVa512 Spreadsheet Tracking
+
+> 2018 - 1 - 20
+
+对着书上敲得，好不容易调试OK。
+重点是，每行的指令同时执行，不会再删除某一行后，影响后面的，所以用新的表格储存指令得到的结果，方程前面推的影响后面。
+
+# UVa12412 A Typical Homework
+
+> 2018 - 1 - 26
+
+解锁新技能：uDebug。
+本题注意输入输出重定向记得打注释。
+除数记得检查为0，样例给的都会很坑！！！
+浮点数误差，记得使用EPS，防止精度问题。
+注意别被格式坑了！
 
 # UVa572 Oil Deposits
 
