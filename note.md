@@ -1,3 +1,62 @@
+# UVa1585 Score
+
+> 2018 - 1 - 14
+
+# UVa1586 Molar Mass
+
+> 2018 - 1 - 14
+
+# UVa1225 Digit Counting
+
+> 2018 - 1 - 14
+
+# UVa455 Periodic Strings
+
+> 2018 - 1 - 14
+
+# UVa227 Puzzle
+
+> 2018 - 1 - 14
+
+cin.getline()等函数应用，输出格式控制
+
+# UVa232 Crossword Answers
+
+> 2018 - 1 - 15
+
+# UVa1368 DNA Consensus String
+
+> 2018 - 1 - 15
+
+Runtime error 注意数组超界问题
+
+# UVa202 Repeating Decimals
+
+> 2018 - 1 - 16
+
+超级痛苦的AC，第一道一开始看没思路的题，而且乍一看特别简单。
+辗转相除法的应用。
+
+# UVa10340 All in All
+
+> 2018 - 1 - 16
+
+# UVa1587 Box
+
+> 2018 - 1 - 16
+
+# UVa1588 Kickdown
+
+> 2018 - 1 - 16
+
+忘记减去‘0’。
+
+# UVa11809 Floating-Point Numbers
+
+> 2018 - 1 - 17
+
+对大数取对数，查表。
+
 # UVa572 Oil Deposits
 
 > 2018 - 3 - 11
@@ -95,3 +154,4 @@ dfs过程中，先对正在访问的节点记录为-1，则当后面dfs深入时
  > 2018 - 5 - 28
 
  本题注意题意的理解，位运算操作的运用，**-1 = 0xFFFFFFF**。
+
